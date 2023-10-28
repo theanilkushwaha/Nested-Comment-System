@@ -1,0 +1,33 @@
+.btn {
+  border-radius: 10px;
+}
+.btn1 {
+  background-color: rgb(34, 188, 188);
+}
+
+.btn1:hover {
+  background-color: pink;
+}
+
+.btn2 {
+  background-color: orange;
+}
+
+.btn2:hover {
+  background-color: red;
+}
+.pbtn {
+  background-color: rgb(34, 188, 188);
+}
+
+.pbtn:hover {
+  background-color: plum;
+}
+
+.btn3 {
+  background-color: rgb(106, 179, 106);
+}
+
+.btn3:hover {
+  background-color: plum;
+}
